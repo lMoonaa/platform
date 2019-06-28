@@ -1,0 +1,9 @@
+export const NEW_CLICK='home/NEW_CLICK';
+export const REC_CLICK='home/REC_CLICK';
+export const FAST_CLICK='home/FAST_CLICK';
+export const RECOM_DATA='home/RECOM_DATA';
+export const NEW_DATA='home/NEW_DATA';
+export const FAST_DATA='home/FAST_DATA';
+export const ODER_DATA='home/ODER_DATA';
+export const ODER_MOUSE_ENTER='home/ODER_MOUSE_ENTER';
+export const ODER_MOUSE_LEAVE='home/ODER_MOUSE_LEAVE';
